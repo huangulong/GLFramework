@@ -1,1 +1,11 @@
-njlnalgjslnfsljgsln没有声明可以度过。
+xcode相关地址
+模拟器地址 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer
+
+插件地址 /Users/用户名/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins 
+
+开发证书地址 /Users/用户名/Library/MobileDevice/Provisioning\ Profiles
+
+应用沙盒地址 /Users/用户名/Library/Developer/CoreSimulator/Devices
+
+
+
