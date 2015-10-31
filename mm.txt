@@ -4,5 +4,5 @@ xcode 控制台的断点调试
 3.kill 停止程序
 4.run 重新运行
 5.next 单步执行
-6.print 打印   e.g print name
-7.expression 修改变量的值  e.g expression mm = @“who”
+6.print 打印(简写po)   e.g print name
+7.expression 修改变量的值(简写exp)  e.g expression mm = @“who”
