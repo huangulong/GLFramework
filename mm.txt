@@ -6,3 +6,4 @@ xcode 控制台的断点调试
 5.next 单步执行
 6.print 打印(简写po)   e.g print name
 7.expression 修改变量的值(简写exp)  e.g expression mm = @“who”
+8.还在找
