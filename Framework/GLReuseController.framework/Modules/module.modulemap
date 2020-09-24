@@ -1,0 +1,6 @@
+framework module GLReuseController {
+  umbrella header "GLReuseController.h"
+
+  export *
+  module * { export * }
+}
